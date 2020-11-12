@@ -6,18 +6,18 @@
 # URL settings 
 #
 # url is your gh-pages base, following the pattern: username.github.io
-url: https://uidaholib.github.io
+url: https://erushton.github.io
 # baseurl is your github repository's name prefixed with a /
-baseurl: /oral-history-as-data
+baseurl: /erushton
 # repository is the github repository's full url
-repository: https://github.com/uidaholib/oral-history-as-data
+repository: https://github.com/erushton/OHD
 
 
 ##########
 # Site settings
 #
 # title of site appears in banner
-title: Oral History (as) Data
+title: Oral History (as) Chaat
 # tagline appears in banner
 tagline: Analyze and publish coded oral history and qualitative interviews
 # description appears in meta tags and other locations
